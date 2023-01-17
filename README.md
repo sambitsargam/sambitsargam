@@ -75,7 +75,7 @@
 
 
 <h1 align="center">My Spotify 😇 </h1>
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&cover_image=true&theme=default&show_offline=true&background_color=3f3f3f&bar_color_cover=true" />
+<img width="400px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&cover_image=false&theme=default&show_offline=true&background_color=3f3f3f&bar_color_cover=true" />
 
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
