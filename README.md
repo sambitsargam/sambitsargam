@@ -74,6 +74,9 @@
   <img width="500px" height:"200" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=blue-green&hide_border=false" />
 
 
+<h1 align="center">My Spotify 😇 </h1>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&cover_image=true&theme=default&show_offline=true&background_color=3f3f3f&bar_color_cover=true" />
+
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
