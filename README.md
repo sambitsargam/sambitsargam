@@ -64,14 +64,14 @@
 
 </div>
 <div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696" height:"200"  alt="Sambit's Github stats" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height:"200"  alt="Sambit's Github stats" />
  <div align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="200"/>
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="200"/>
 
 </div>
 <h1 align="center"> Contributions 🔥</h1>
 <p align="center">
-  <img width="370px" height:"200" src="http://github-readme-streak-stats.herokuapp.com?user=sambitsargam&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
+  <img width="500px" height:"200" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=blue-green&hide_border=false" />
 
 
 
