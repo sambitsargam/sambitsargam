@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://linktr.ee/sambitsargam">
-  <img src="https://raw.githubusercontent.com/SAMBITSARGAM/sambitsargam.github.io/main/sambitsargam.png" alt="👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"/>
+  <img src="https://user-images.githubusercontent.com/70655824/212973879-16145ebf-36a1-42a6-b6cb-03c5d5017af7.png" alt="👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"/>
   </a>
 </p>
 
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
+
 
 
 <h1 align="center"> 🍁 My Skill stack :</h1>
