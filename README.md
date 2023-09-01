@@ -62,16 +62,17 @@
 <h1 align="center"> Some Fun Stats 📊 </h1>
 <div>
 
+
 </div>
 <div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height:"200"  alt="Sambit's Github stats" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&theme=omni&show_icons=true&hide_border=false&count_private=true" height="200px"  alt="Sambit's Github stats" />
  <div align="center"> 
-   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="200"/>
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&theme=omni&show_icons=true&hide_border=false&layout=compact"  height="200px" />
 
 </div>
 <h1 align="center"> Contributions 🔥</h1>
 <p align="center">
-  <img width="500px" height:"200" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=blue-green&hide_border=false" />
+  <img width="500px" height:"200" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=omni&hide_border=false" />
 
 
 <h1 align="center">My Spotify 😇 </h1>
