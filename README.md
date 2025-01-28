@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://linktr.ee/sambitsargam">
+  <a href="https://sambitsargam.in">
   <img src="https://user-images.githubusercontent.com/70655824/212973879-16145ebf-36a1-42a6-b6cb-03c5d5017af7.png" alt="👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"/>
   </a>
 </p>
@@ -76,7 +76,7 @@
 
 
 <h1 align="center">My Spotify 😇 </h1>
-<img width="400px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&cover_image=false&theme=default&show_offline=true&background_color=3f3f3f&bar_color_cover=true" />
+<img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nwiwmdh5jdc6ncs7yqlwvmgwti&cover_image=true&theme=novatorem&show_offline=true&background_color=1ba2ac&interchange=false&bar_color=53b14f&bar_color_cover=true)" />
 
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
