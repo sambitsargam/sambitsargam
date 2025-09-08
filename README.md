@@ -65,7 +65,7 @@
 
 </div>
 <div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&theme=omni&show_icons=true&hide_border=false&count_private=true" height="200px"  alt="Sambit's Github stats" />
+<img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/sambitsargam?cardType=github&theme=radical&preferLogin=false" height="200px"  alt="Sambit's Github stats" />
  <div align="center"> 
    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&theme=omni&show_icons=true&hide_border=false&layout=compact"  height="200px" />
 
