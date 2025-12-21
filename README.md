@@ -72,7 +72,7 @@
 </div>
 <h1 align="center"> Contributions 🔥</h1>
 <p align="center">
-  <img width="500px" height:"200" src="[https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=omni&hide_border=false" />
+  <img width="500px" height:"200" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&theme=omni&hide_border=false" />
 
 
 <h1 align="center">My Spotify 😇 </h1>
