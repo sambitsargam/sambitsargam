@@ -87,5 +87,6 @@
   <a href="https://www.instagram.com/myself_sambit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@sambitsargam"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<---SAMBIT SARGAM-->
+<---Sambit Sargam Ekalabya->
+<h2> Check Out My Portfolio at www.sambitsargam.in </h2>
  <p align="center"> Congratulations, you found me on GitHub ! </p>
